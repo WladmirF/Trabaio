@@ -1,0 +1,1 @@
+SELECT * FROM doceria.vendas;
